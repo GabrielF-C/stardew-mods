@@ -1,0 +1,13 @@
+{
+   "Name": "FixedHatMouse",
+   "Author": "thingwithwings",
+   "Version": "1.0.2",
+   "Description": "Gives the Hat Mouse a better, nicer home, just like they deserve",
+   "UniqueID": "thingwithwings.FixedHatMouse",
+   "MinimumApiVersion": "2.5",
+   "UpdateKeys": [ "Nexus:1975" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+      "MinimumVersion": "1.0.0" // optional
+   }
+}

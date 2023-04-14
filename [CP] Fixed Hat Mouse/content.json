@@ -1,0 +1,70 @@
+{
+	"Format": "1.0",
+	"Changes": [
+		{
+		"Action": "EditImage",
+		"Target": "Maps/spring_outdoorsTileSheet",
+		"FromFile": "assets/springhouse.png",
+		"ToArea": { "X": 287, "Y": 1142, "Width": 113, "Height": 122 },
+		"Enabled": true
+		},
+
+		{
+		"Action": "EditImage",
+		"Target": "Maps/summer_outdoorsTileSheet",
+		"FromFile": "assets/summerhouse.png",
+        "ToArea": { "X": 287, "Y": 1142, "Width": 113, "Height": 122 },
+		"Enabled": true
+		},
+		{
+         "Action": "EditImage",
+         "Target": "Maps/fall_outdoorsTileSheet",
+         "FromFile": "assets/fallhouse.png",
+         "ToArea": { "X": 287, "Y": 1142, "Width": 113, "Height": 122 },
+		 "Enabled": true
+		},
+		{
+         "Action": "EditImage",
+         "Target": "Maps/winter_outdoorsTileSheet",
+         "FromFile": "assets/winterhouse.png",
+         "ToArea": { "X": 287, "Y": 1142, "Width": 113, "Height": 122 },
+		 "Enabled": true
+		},
+				{
+		"Action": "EditImage",
+		"Target": "Content/spring_outdoorsTileSheet",
+		"FromFile": "assets/springhouse.png",
+		"ToArea": { "X": 287, "Y": 1142, "Width": 113, "Height": 122 },
+		"Enabled": true
+		},
+
+		{
+		"Action": "EditImage",
+		"Target": "Content/summer_outdoorsTileSheet",
+		"FromFile": "assets/summerhouse.png",
+        "ToArea": { "X": 287, "Y": 1142, "Width": 113, "Height": 122 },
+		"Enabled": true
+		},
+		{
+         "Action": "EditImage",
+         "Target": "Content/fall_outdoorsTileSheet",
+         "FromFile": "assets/fallhouse.png",
+         "ToArea": { "X": 287, "Y": 1142, "Width": 113, "Height": 122 },
+		 "Enabled": true
+		},
+		{
+         "Action": "EditImage",
+         "Target": "Content/winter_outdoorsTileSheet",
+         "FromFile": "assets/winterhouse.png",
+         "ToArea": { "X": 287, "Y": 1142, "Width": 113, "Height": 122 },
+		 "Enabled": true
+		},
+		{
+         "Action": "EditImage",
+         "Target": "LooseSprites/cursors",
+         "FromFile": "assets/mousehouse.png",
+         "ToArea": { "X": 600, "Y": 1957, "Width": 64, "Height": 32 },
+		 "Enabled": true
+		},
+	]
+}
