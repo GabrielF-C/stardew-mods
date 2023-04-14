@@ -1,5 +1,9 @@
 # stardew-mods
 
+## Installing Mods
+
+See [Stardew Valley Wiki - Modding:Player Guide/Getting Started](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started).
+
 ## Other Requirements
 
 - [SMAPI 3.18.2](https://smapi.io/)
