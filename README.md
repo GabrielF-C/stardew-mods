@@ -1,5 +1,9 @@
 # stardew-mods
 
+## Other Requirements
+
+- [SMAPI 3.18.2](https://smapi.io/)
+
 ## Mods
 
 ### ⚪NotInstalled
