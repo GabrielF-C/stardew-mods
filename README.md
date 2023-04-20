@@ -6,6 +6,8 @@ See [Stardew Valley Wiki - Modding:Player Guide/Getting Started](https://stardew
 
 Then download a [release](https://github.com/GabrielF-C/stardew-mods/releases) and unzip it into your mod folder.
 
+Make sure to install any other requirements specified by the release.
+
 ## Other Requirements
 
 - [SMAPI 3.18.2](https://smapi.io/)
