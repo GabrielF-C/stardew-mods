@@ -10,7 +10,7 @@ Make sure to install any other requirements specified by the release.
 
 ## Other Requirements
 
-- [SMAPI 3.18.2](https://smapi.io/)
+- [SMAPI 3.18.3](https://smapi.io/)
 
 ## Mods
 
