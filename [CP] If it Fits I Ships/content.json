@@ -1,0 +1,43 @@
+{
+	"Format": "1.11.0",		
+
+	"ConfigSchema": {
+		
+		"CatColor":{"AllowValues": "Orange, Grey, Yellow",
+					"Default": "Orange"},
+					},
+	"Changes": [
+		{
+		"Action": "EditImage",
+		"Target": "Buildings/Shipping Bin",
+		"FromFile": "assets/Bin.png",
+		},
+		
+		{
+		"Action": "EditImage",
+		"Target": "LooseSprites/Cursors.xnb",
+		"FromFile": "assets/Lid_Orange.png",
+		"ToArea": { "X": 134, "Y": 218, "Width": 492, "Height": 33 },
+		"PatchMode": "Overlay",
+		"When": { "CatColor": "Orange"},
+	}, 
+		
+		{
+		"Action": "EditImage",
+		"Target": "LooseSprites/Cursors.xnb",
+		"FromFile": "assets/Lid_Grey.png",
+		"ToArea": { "X": 134, "Y": 218, "Width": 492, "Height": 33 },
+		"PatchMode": "Overlay",
+		"When": { "CatColor": "Grey"},
+	}, 
+		
+		{
+		"Action": "EditImage",
+		"Target": "LooseSprites/Cursors.xnb",
+		"FromFile": "assets/Lid_Yellow.png",
+		"ToArea": { "X": 134, "Y": 218, "Width": 492, "Height": 33 },
+		"PatchMode": "Overlay",
+		"When": { "CatColor": "Yellow"},
+	},
+ ]
+}
