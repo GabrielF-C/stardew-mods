@@ -27,6 +27,7 @@ Make sure to install any other requirements specified by the release.
 |           [Elle's Cat Replacements](https://www.nexusmods.com/stardewvalley/mods/3872)           | Provides 51 different retextures to replace your cat with!                                                                                                                                                                | Requires Content Patcher |
 |               [Mod Update Menu](https://www.nexusmods.com/stardewvalley/mods/2536)               | Adds an in game menu to the title screen letting you know if you need to update your mods or SMAPI! Provides handy links to the download locations!                                                                       |                          |
 |             [Elle's Town Animals](https://www.nexusmods.com/stardewvalley/mods/1965)             | Replaces nearly every creature throughout Stardew Valley!                                                                                                                                                                 | Requires Content Patcher |
+|              [Stardew Aquarium](https://www.nexusmods.com/stardewvalley/mods/6372)               | Stardew Aquarium adds an Aquarium to Stardew Valley. Here you can donate your fish to animated tanks for rewards. Includes a large new beach location with new custom shops.                                              | A lot of requirements    |
 
 ### 🟢InUse
 
