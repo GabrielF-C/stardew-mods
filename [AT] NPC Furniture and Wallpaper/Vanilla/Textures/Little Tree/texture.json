@@ -1,0 +1,188 @@
+{
+  "ItemName": "'Little Tree'",
+  "Type": "Furniture",
+  "TextureWidth": 16,
+  "TextureHeight": 32,
+  "ManualVariations": [
+	{
+      "Id": 0,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Band Poster",
+	  "Keywords": [ "NPC Band Poster" ]
+    },
+	{
+      "Id": 1,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Buff Poster",
+	  "Keywords": [ "NPC Buff Poster" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Chicken Painting",
+	  "Keywords": [ "NPC Chicken Painting" ]
+    },
+	{
+      "Id": 3,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Dark Poster",
+	  "Keywords": [ "NPC Dark Poster" ]
+    },
+    {
+      "Id": 4,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Earth Poster",
+	  "Keywords": [ "NPC Earth Poster" ]
+    },
+	{
+      "Id": 5,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Grey Poster",
+	  "Keywords": [ "NPC Grey Poster" ]
+    },
+    {
+      "Id": 6,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Hang Fish Bobs",
+	  "Keywords": [ "NPC Hang Fish Bobs" ]
+    },
+	{
+      "Id": 7,
+      "ChanceWeight": 0.1,
+      "Name": "NPC hills Framed",
+	  "Keywords": [ "NPC hills Framed" ]
+    },
+    {
+      "Id": 8,
+      "ChanceWeight": 0.1,
+      "Name": "NPC krobus craft project hanging decoration",
+	  "Keywords": [ "NPC krobus craft project hanging decoration" ]
+    },
+	{
+      "Id": 9,
+      "ChanceWeight": 0.1,
+      "Name": "NPC krobus vent",
+	  "Keywords": [ "NPC krobus vent" ]
+    },
+    {
+      "Id": 10,
+      "ChanceWeight": 0.1,
+      "Name": "NPC little house Framed",
+	  "Keywords": [ "NPC little house Framed" ]
+    },
+	{
+      "Id": 11,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Music Notes",
+	  "Keywords": [ "NPC Music Notes" ]
+    },
+	{
+      "Id": 12,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Orange Fall Tree Painting",
+	  "Keywords": [ "NPC Orange Fall Tree Painting" ]
+    },
+	{
+      "Id": 13,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Painting of Grey High Rises",
+	  "Keywords": [ "NPC Painting of Grey High Rises" ]
+    },
+	{
+      "Id": 14,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Pendant Frame",
+	  "Keywords": [ "NPC Pendant Frame" ]
+    },
+	{
+      "Id": 15,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Post-it notes",
+	  "Keywords": [ "NPC Post-it notes" ]
+    },
+	{
+      "Id": 16,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Round house Framed",
+	  "Keywords": [ "NPC Round house Framed" ]
+    },
+	{
+      "Id": 17,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Small Flower Painting",
+	  "Keywords": [ "NPC Small Flower Painting" ]
+    },
+	{
+      "Id": 18,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Small Green Forest Painting",
+	  "Keywords": [ "NPC Small Green Forest Painting" ]
+    },
+	{
+      "Id": 19,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Small Red Ship Painting",
+	  "Keywords": [ "NPC Small Red Ship Painting" ]
+    },
+	{
+      "Id": 20,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Small Vintage Desert Photo",
+	  "Keywords": [ "NPC Small Vintage Desert Photo" ]
+    },
+	{
+      "Id": 21,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Small Vintage Photo 1",
+	  "Keywords": [ "NPC Small Vintage Photo 1" ]
+    },
+	{
+      "Id": 22,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Small Vintage Photos",
+	  "Keywords": [ "NPC Small Vintage Photos" ]
+    },
+	{
+      "Id": 23,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Strange Doll Poster",
+	  "Keywords": [ "NPC Strange Doll Poster" ]
+    },
+	{
+      "Id": 24,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Stranger Poster",
+	  "Keywords": [ "NPC Stranger Poster" ]
+    },
+	{
+      "Id": 25,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Summer Balloon Poster",
+	  "Keywords": [ "NPC Summer Balloon Poster" ]
+    },
+	{
+      "Id": 26,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Wall Fish",
+	  "Keywords": [ "NPC Wall Fish" ]
+    },
+	{
+      "Id": 27,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Wall Mounted Radio",
+	  "Keywords": [ "NPC Wall Mounted Radio" ]
+    },
+	{
+      "Id": 28,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Weightlifting Poster",
+	  "Keywords": [ "NPC Weightlifting Poster" ]
+    },
+	{
+      "Id": 29,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Yoba Framed",
+	  "Keywords": [ "NPC Yoba Framed" ]
+    }
+  ]
+}

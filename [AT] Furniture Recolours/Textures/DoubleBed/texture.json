@@ -1,0 +1,50 @@
+{
+  "ItemName": "Double Bed",
+  "Type": "Furniture",
+  "Keywords": [ "siamece" ],
+  "TextureWidth": 96,
+  "TextureHeight": 64,
+  "ManualVariations": [
+    {
+      "Id": 0,
+      "Keywords": [ "black" ]
+    },
+    {
+      "Id": 1,
+      "Keywords": [ "black", "blanket" ]
+    },
+{
+      "Id": 2,
+      "Keywords": [ "white" ]
+    },
+{
+      "Id": 3,
+      "Keywords": [ "white", "blanket" ]
+    },
+{
+      "Id": 4,
+      "Keywords": [ "birch" ]
+    },
+{
+      "Id": 5,
+      "Keywords": [ "birch", "blanket" ]
+    },
+
+    {
+      "Id": 6,
+      "Keywords": [ "walnut" ]
+    },
+    {
+      "Id": 7,
+      "Keywords": [ "walnut", "blanket" ]
+    },
+{
+      "Id": 8,
+      "Keywords": [ "mahogany" ]
+    },
+{
+      "Id": 9,
+      "Keywords": [ "mahogany", "blanket" ]
+    }
+  ]
+}

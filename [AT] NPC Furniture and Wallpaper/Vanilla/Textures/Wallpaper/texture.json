@@ -1,0 +1,152 @@
+{
+  "ItemName": "Wallpaper",
+  "Type": "Decoration",
+  "TextureWidth": 16,
+  "TextureHeight": 48,
+  "ManualVariations": [
+	{
+      "Id": 0,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Blue Bathhouse Pool Tile",
+	  "Keywords": [ "NPC Blue Bathhouse Pool Tile" ]
+    },
+	{
+      "Id": 1,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Blue Bathhouse Shower Tile",
+	  "Keywords": [ "NPC Blue Bathhouse Shower Tile" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Blue Bathhouse Wall",
+	  "Keywords": [ "NPC Blue Bathhouse Wall" ]
+    },
+	{
+      "Id": 3,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Blue Mermaid Foliage Wall",
+	  "Keywords": [ "NPC Blue Mermaid Foliage Wall" ]
+    },
+    {
+      "Id": 4,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Blue Starry Casino Wall",
+	  "Keywords": [ "NPC Blue Starry Casino Wall" ]
+    },
+	{
+      "Id": 5,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Brown Ginger Island Planks",
+	  "Keywords": [ "NPC Brown Ginger Island Planks" ]
+    },
+    {
+      "Id": 6,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Brown Witchy Planks",
+	  "Keywords": [ "NPC Brown Witchy Planks" ]
+    },
+	{
+      "Id": 7,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Green Ginger Island Gradient Wall",
+	  "Keywords": [ "NPC Green Ginger Island Gradient Wall" ]
+    },
+    {
+      "Id": 8,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Purple Movie Theater Wall",
+	  "Keywords": [ "NPC Purple Movie Theater Wall" ]
+    },
+	{
+      "Id": 9,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Purple Wave Casino Wall",
+	  "Keywords": [ "NPC Purple Wave Casino Wall" ]
+    },
+    {
+      "Id": 10,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Red Movie Theater Curtain",
+	  "Keywords": [ "NPC Red Movie Theater Curtain" ]
+    },
+	{
+      "Id": 11,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Starry Movie Theater Wall",
+	  "Keywords": [ "NPC Starry Movie Theater Wall" ]
+    },
+	{
+      "Id": 12,
+      "ChanceWeight": 0.1,
+      "Name": "Spouse Room Wall Abigail",
+	  "Keywords": [ "Spouse Room Wall Abigail" ]
+    },
+	{
+      "Id": 13,
+      "ChanceWeight": 0.1,
+      "Name": "Spouse Room Wall Alex",
+	  "Keywords": [ "Spouse Room Wall Alex" ]
+    },
+	{
+      "Id": 14,
+      "ChanceWeight": 0.1,
+      "Name": "Spouse Room Wall Elliott",
+	  "Keywords": [ "Spouse Room Wall Elliott" ]
+    },
+	{
+      "Id": 15,
+      "ChanceWeight": 0.1,
+      "Name": "Spouse Room Wall Emily",
+	  "Keywords": [ "Spouse Room Wall Emily" ]
+    },
+	{
+      "Id": 16,
+      "ChanceWeight": 0.1,
+      "Name": "Spouse Room Wall Haley",
+	  "Keywords": [ "Spouse Room Wall Haley" ]
+    },
+	{
+      "Id": 17,
+      "ChanceWeight": 0.1,
+      "Name": "Spouse Room Wall Harvey",
+	  "Keywords": [ "Spouse Room Wall Harvey" ]
+    },
+	{
+      "Id": 18,
+      "ChanceWeight": 0.1,
+      "Name": "Spouse Room Wall Leah",
+	  "Keywords": [ "Spouse Room Wall Leah" ]
+    },
+	{
+      "Id": 19,
+      "ChanceWeight": 0.1,
+      "Name": "Spouse Room Wall Maru",
+	  "Keywords": [ "Spouse Room Wall Maru" ]
+    },
+	{
+      "Id": 20,
+      "ChanceWeight": 0.1,
+      "Name": "Spouse Room Wall Penny",
+	  "Keywords": [ "Spouse Room Wall Penny" ]
+    },
+	{
+      "Id": 21,
+      "ChanceWeight": 0.1,
+      "Name": "Spouse Room Wall Sam",
+	  "Keywords": [ "Spouse Room Wall Sam" ]
+    },
+	{
+      "Id": 22,
+      "ChanceWeight": 0.1,
+      "Name": "Spouse Room Wall Sebastian",
+	  "Keywords": [ "Spouse Room Wall Sebastian" ]
+    },
+	{
+      "Id": 23,
+      "ChanceWeight": 0.1,
+      "Name": "Spouse Room Wall Shane",
+	  "Keywords": [ "Spouse Room Wall Shane" ]
+    }
+	]
+}

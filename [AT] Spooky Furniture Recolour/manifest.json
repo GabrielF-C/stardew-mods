@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Spooky Furniture Recolours",
+  "Author": "siamece",
+  "Version": "1.1.1",
+  "Description": "Adds dark colour options to most furniture.",
+  "UniqueID": "siamece.PastelAndSpookyFurnitureRecolours",
+  "UpdateKeys": ["Nexus:9408"],
+  "Dependencies": [],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.AlternativeTextures",
+    "MinimumVersion": "2.3.0"
+  }
+}

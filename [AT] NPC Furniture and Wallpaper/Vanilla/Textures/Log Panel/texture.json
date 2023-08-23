@@ -1,0 +1,86 @@
+{
+  "ItemName": "Log Panel",
+  "Type": "Furniture",
+  "TextureWidth": 16,
+  "TextureHeight": 48,
+  "ManualVariations": [
+	{
+      "Id": 0,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Bathhouse Door",
+	  "Keywords": [ "NPC Bathhouse Door" ]
+    },
+	{
+      "Id": 1,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Bathhouse Men's Door",
+	  "Keywords": [ "NPC Bathhouse Men's Door" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Bathhouse Shower 1",
+	  "Keywords": [ "NPC Bathhouse Shower 1" ]
+    },
+	{
+      "Id": 3,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Bathhouse Shower 2",
+	  "Keywords": [ "NPC Bathhouse Shower 2" ]
+    },
+    {
+      "Id": 4,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Bathhouse Toilet Door",
+	  "Keywords": [ "NPC Bathhouse Toilet Door" ]
+    },
+	{
+      "Id": 5,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Bathhouse Women's Door",
+	  "Keywords": [ "NPC Bathhouse Women's Door" ]
+    },
+    {
+      "Id": 6,
+      "ChanceWeight": 0.1,
+      "Name": "NPC krobus ladder",
+	  "Keywords": [ "NPC krobus ladder" ]
+    },
+	{
+      "Id": 7,
+      "ChanceWeight": 0.1,
+      "Name": "NPC krobus rodent underpass",
+	  "Keywords": [ "NPC krobus rodent underpass" ]
+    },
+    {
+      "Id": 8,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Narrow Mirror",
+	  "Keywords": [ "NPC Narrow Mirror" ]
+    },
+	{
+      "Id": 9,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Narrow Sink And Mirror",
+	  "Keywords": [ "NPC Narrow Sink And Mirror" ]
+    },
+    {
+      "Id": 10,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Sine Wave Chart",
+	  "Keywords": [ "NPC Sine Wave Chart" ]
+    },
+	{
+      "Id": 11,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Witchy Broom for Flying",
+	  "Keywords": [ "NPC Witchy Broom for Flying" ]
+    },
+	{
+      "Id": 12,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Witchy Broom for Flying 2",
+	  "Keywords": [ "NPC Witchy Broom for Flying 2" ]
+    }
+	]
+}

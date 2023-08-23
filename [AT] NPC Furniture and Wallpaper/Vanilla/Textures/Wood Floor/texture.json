@@ -1,0 +1,8 @@
+{
+  "ItemName": "Wood Floor",
+  "Type": "Flooring",
+  "Seasons": [ "Spring", "Summer", "Fall", "Winter" ],
+  "TextureWidth": 64,
+  "TextureHeight": 64,
+  "Variations": 6
+}

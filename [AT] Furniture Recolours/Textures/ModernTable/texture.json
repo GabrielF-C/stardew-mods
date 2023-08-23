@@ -1,0 +1,17 @@
+{
+  "ItemName": "Modern Table",
+  "Type": "Furniture",
+  "Keywords": [ "siamece" ],
+  "TextureWidth": 32,
+  "TextureHeight": 48,
+"ManualVariations": [
+    {
+      "Id": 0,
+      "Keywords": [ "black" ]
+    },
+    {
+      "Id": 1,
+      "Keywords": [ "white" ]
+    }
+  ]
+}

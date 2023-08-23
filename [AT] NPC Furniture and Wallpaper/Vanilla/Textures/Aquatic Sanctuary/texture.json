@@ -1,0 +1,14 @@
+{
+  "ItemName": "Aquatic Sanctuary",
+  "Type": "Furniture",
+  "TextureWidth": 224,
+  "TextureHeight": 48,
+  "ManualVariations": [
+	{
+      "Id": 0,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Community Sanctuary",
+	  "Keywords": [ "NPC Community Sanctuary" ]
+    }
+	]
+}

@@ -1,0 +1,8 @@
+{
+  "ItemName": "Child Bed",
+  "Type": "Furniture",
+  "Keywords": [ "siamece" ],
+  "TextureWidth": 64,
+  "TextureHeight": 64,
+  "Variations": 8
+}

@@ -1,0 +1,29 @@
+{
+  "ItemName": "Mahogany Bench",
+  "Type": "Furniture",
+  "Keywords": [ "siamece" ],
+  "TextureWidth": 80,
+  "TextureHeight": 96,
+  "ManualVariations": [
+    {
+      "Id": 0,
+      "Keywords": [ "black" ]
+    },
+    {
+      "Id": 1,
+      "Keywords": [ "white" ]
+    },
+{
+      "Id": 2,
+      "Keywords": [ "birch" ]
+    },
+{
+      "Id": 3,
+      "Keywords": [ "walnut" ]
+    },
+{
+      "Id": 4,
+      "Keywords": [ "oak" ]
+    }
+  ]
+}

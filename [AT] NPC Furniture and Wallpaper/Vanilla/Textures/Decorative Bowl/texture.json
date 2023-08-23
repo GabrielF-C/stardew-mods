@@ -1,0 +1,326 @@
+{
+  "ItemName": "Decorative Bowl",
+  "Type": "Furniture",
+  "TextureWidth": 16,
+  "TextureHeight": 16,
+  "ManualVariations": [
+	{
+      "Id": 0,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Another Book Stack",
+	  "Keywords": [ "NPC Another Book Stack" ]
+    },
+	{
+      "Id": 1,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Apple plate food",
+	  "Keywords": [ "NPC Apple plate food" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Bathhouse dumbbell",
+	  "Keywords": [ "NPC Bathhouse dumbbell" ]
+    },
+	{
+      "Id": 3,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Black Game Station",
+	  "Keywords": [ "NPC Black Game Station" ]
+    },
+    {
+      "Id": 4,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Black Home Telephone",
+	  "Keywords": [ "NPC Black Home Telephone" ]
+    },
+	{
+      "Id": 5,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Blue Cloth",
+	  "Keywords": [ "NPC Blue Cloth" ]
+    },
+    {
+      "Id": 6,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Blue Globe",
+	  "Keywords": [ "NPC Blue Globe" ]
+    },
+	{
+      "Id": 7,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Blue Vase",
+	  "Keywords": [ "NPC Blue Vase" ]
+    },
+    {
+      "Id": 8,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Book stack",
+	  "Keywords": [ "NPC Book stack" ]
+    },
+	{
+      "Id": 9,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Book",
+	  "Keywords": [ "NPC Book" ]
+    },
+    {
+      "Id": 10,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Cactus Plant",
+	  "Keywords": [ "NPC Cactus Plant" ]
+    },
+	{
+      "Id": 11,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Canned Drink",
+	  "Keywords": [ "NPC Canned Drink" ]
+    },
+	{
+      "Id": 12,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Casino Table Plant 1",
+	  "Keywords": [ "NPC Casino Table Plant 1" ]
+    },
+	{
+      "Id": 13,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Casino Table Plant",
+	  "Keywords": [ "NPC Casino Table Plant" ]
+    },
+	{
+      "Id": 14,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Computer",
+	  "Keywords": [ "NPC Computer" ]
+    },
+	{
+      "Id": 15,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Desktop PC",
+	  "Keywords": [ "NPC Desktop PC" ]
+    },
+	{
+      "Id": 16,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Dumbbell 2",
+	  "Keywords": [ "NPC Dumbbell 2" ]
+    },
+	{
+      "Id": 17,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Dumbbell",
+	  "Keywords": [ "NPC Dumbbell" ]
+    },
+	{
+      "Id": 18,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Gridball",
+	  "Keywords": [ "NPC Gridball" ]
+    },
+	{
+      "Id": 19,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Haley Camera",
+	  "Keywords": [ "NPC Haley Camera" ]
+    },
+	{
+      "Id": 20,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Hammer",
+	  "Keywords": [ "NPC Hammer" ]
+    },
+	{
+      "Id": 21,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Jas Toy",
+	  "Keywords": [ "NPC Jas Toy" ]
+    },
+	{
+      "Id": 22,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Kettlebot",
+	  "Keywords": [ "NPC Kettlebot" ]
+    },
+	{
+      "Id": 23,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Lightning Poster",
+	  "Keywords": [ "NPC Lightning Poster" ]
+    },
+	{
+      "Id": 24,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Mermaid Star",
+	  "Keywords": [ "NPC Mermaid Star" ]
+    },
+	{
+      "Id": 25,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Mini MarILDA",
+	  "Keywords": [ "NPC Mini MarILDA" ]
+    },
+	{
+      "Id": 26,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Monitor Right Side",
+	  "Keywords": [ "NPC Monitor Right Side" ]
+    },
+	{
+      "Id": 27,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Monitor",
+	  "Keywords": [ "NPC Monitor" ]
+    },
+	{
+      "Id": 28,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Note paper",
+	  "Keywords": [ "NPC Note paper" ]
+    },
+	{
+      "Id": 29,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Note",
+	  "Keywords": [ "NPC Note" ]
+    },
+	{
+      "Id": 30,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Pirate Cannon Ball Cluster",
+	  "Keywords": [ "NPC Pirate Cannon Ball Cluster" ]
+    },
+	{
+      "Id": 31,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Pirate Cannon Ball Couple",
+	  "Keywords": [ "NPC Pirate Cannon Ball Couple" ]
+    },
+	{
+      "Id": 32,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Pizza Box",
+	  "Keywords": [ "NPC Pizza Box" ]
+    },
+	{
+      "Id": 33,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Radio",
+	  "Keywords": [ "NPC Radio" ]
+    },
+	{
+      "Id": 34,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Round Portrait",
+	  "Keywords": [ "NPC Round Portrait" ]
+    },
+	{
+      "Id": 35,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Sam Skateboard Toy",
+	  "Keywords": [ "NPC Sam Skateboard Toy" ]
+    },
+	{
+      "Id": 36,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Science Beakers",
+	  "Keywords": [ "NPC Science Beakers" ]
+    },
+	{
+      "Id": 37,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Science Microscope",
+	  "Keywords": [ "NPC Science Microscope" ]
+    },
+	{
+      "Id": 38,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Science Stuff",
+	  "Keywords": [ "NPC Science Stuff" ]
+    },
+	{
+      "Id": 39,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Scissors",
+	  "Keywords": [ "NPC Scissors" ]
+    },
+	{
+      "Id": 40,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Silver Game Station",
+	  "Keywords": [ "NPC Silver Game Station" ]
+    },
+	{
+      "Id": 41,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Small Potted Plant 1",
+	  "Keywords": [ "NPC Small Potted Plant 1" ]
+    },
+	{
+      "Id": 42,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Small Potted Plant 2",
+	  "Keywords": [ "NPC Small Potted Plant 2" ]
+    },
+	{
+      "Id": 43,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Small Potted Plant 4",
+	  "Keywords": [ "NPC Small Potted Plant 4" ]
+    },
+	{
+      "Id": 44,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Small Potted Plant Cactus",
+	  "Keywords": [ "NPC Small Potted Plant Cactus" ]
+    },
+	{
+      "Id": 45,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Small Potted Plant Ficus",
+	  "Keywords": [ "NPC Small Potted Plant Ficus" ]
+    },
+	{
+      "Id": 46,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Smiley Heart",
+	  "Keywords": [ "NPC Smiley Heart" ]
+    },
+	{
+      "Id": 47,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Solorian Chronicles Game",
+	  "Keywords": [ "NPC Solorian Chronicles Game" ]
+    },
+	{
+      "Id": 48,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Spilled Beer",
+	  "Keywords": [ "NPC Spilled Beer" ]
+    },
+	{
+      "Id": 49,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Upturned Book",
+	  "Keywords": [ "NPC Upturned Book" ]
+    },
+	{
+      "Id": 50,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Vincent Ball Toy",
+	  "Keywords": [ "NPC Vincent Ball Toy" ]
+    },
+	{
+      "Id": 51,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Witchy Red Book",
+	  "Keywords": [ "NPC Witchy Red Book" ]
+    },
+	{
+      "Id": 52,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Witchy Wizard Candles",
+	  "Keywords": [ "NPC Witchy Wizard Candles" ]
+    }
+	]
+}

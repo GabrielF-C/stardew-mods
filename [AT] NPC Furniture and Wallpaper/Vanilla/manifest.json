@@ -1,0 +1,12 @@
+﻿{
+  "Name": "[AT] Vanilla NPC Furniture and Wallpaper",
+  "Author": "Asterisk555",
+  "Version": "1.1.0",
+  "Description": "Alternative Furniture Textures",
+  "UniqueID": "Asterisk555.AT.Vanilla.NPC.Furniture",
+  "UpdateKeys": ["Nexus:13064@AT"],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.AlternativeTextures",
+    "MinimumVersion": "5.0.0"
+  }
+}

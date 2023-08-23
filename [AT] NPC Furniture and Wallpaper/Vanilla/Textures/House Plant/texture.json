@@ -1,0 +1,158 @@
+{
+  "ItemName": "House Plant",
+  "Type": "Furniture",
+  "TextureWidth": 16,
+  "TextureHeight": 32,
+  "ManualVariations": [
+	{
+      "Id": 0,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Adventurer's Boots",
+	  "Keywords": [ "NPC Adventurer's Boots" ]
+    },
+	{
+      "Id": 1,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Casino Blue Vase",
+	  "Keywords": [ "NPC Casino Blue Vase" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Casino Pastel Cactus",
+	  "Keywords": [ "NPC Casino Pastel Cactus" ]
+    },
+	{
+      "Id": 3,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Casino Purple Vase 1",
+	  "Keywords": [ "NPC Casino Purple Vase 1" ]
+    },
+    {
+      "Id": 4,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Casino Purple Vase 2",
+	  "Keywords": [ "NPC Casino Purple Vase 2" ]
+    },
+	{
+      "Id": 5,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Casino Purple Vase",
+	  "Keywords": [ "NPC Casino Purple Vase" ]
+    },
+    {
+      "Id": 6,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Casino Slot Machine",
+	  "Keywords": [ "NPC Casino Slot Machine" ]
+    },
+	{
+      "Id": 7,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Casino Teal Vase",
+	  "Keywords": [ "NPC Casino Teal Vase" ]
+    },
+    {
+      "Id": 8,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Dye Pots",
+	  "Keywords": [ "NPC Dye Pots" ]
+    },
+	{
+      "Id": 9,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Ficus",
+	  "Keywords": [ "NPC Ficus" ]
+    },
+    {
+      "Id": 10,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Guitar",
+	  "Keywords": [ "NPC Guitar" ]
+    },
+	{
+      "Id": 11,
+      "ChanceWeight": 0.1,
+      "Name": "NPC krobus vase_00",
+	  "Keywords": [ "NPC krobus vase_00" ]
+    },
+	{
+      "Id": 12,
+      "ChanceWeight": 0.1,
+      "Name": "NPC krobus vase_01",
+	  "Keywords": [ "NPC krobus vase_01" ]
+    },
+	{
+      "Id": 13,
+      "ChanceWeight": 0.1,
+      "Name": "NPC krobus vase_02",
+	  "Keywords": [ "NPC krobus vase_02" ]
+    },
+	{
+      "Id": 14,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Laboratory Computer with Keyboard",
+	  "Keywords": [ "NPC Laboratory Computer with Keyboard" ]
+    },
+	{
+      "Id": 15,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Landscape Paintings",
+	  "Keywords": [ "NPC Landscape Paintings" ]
+    },
+	{
+      "Id": 16,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Leah Easel",
+	  "Keywords": [ "NPC Leah Easel" ]
+    },
+	{
+      "Id": 17,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Leaning Sword",
+	  "Keywords": [ "NPC Leaning Sword" ]
+    },
+	{
+      "Id": 18,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Mini Fridge",
+	  "Keywords": [ "NPC Mini Fridge" ]
+    },
+	{
+      "Id": 19,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Oak Barrel",
+	  "Keywords": [ "NPC Oak Barrel" ]
+    },
+	{
+      "Id": 20,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Pile of Logs",
+	  "Keywords": [ "NPC Pile of Logs" ]
+    },
+	{
+      "Id": 21,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Pirate Mystery Mead",
+	  "Keywords": [ "NPC Pirate Mystery Mead" ]
+    },
+	{
+      "Id": 22,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Telescope",
+	  "Keywords": [ "NPC Telescope" ]
+    },
+	{
+      "Id": 23,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Tied Logs",
+	  "Keywords": [ "NPC Tied Logs" ]
+    },
+	{
+      "Id": 24,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Witchy Fern Plant",
+	  "Keywords": [ "NPC Witchy Fern Plant" ]
+    }
+	]
+}

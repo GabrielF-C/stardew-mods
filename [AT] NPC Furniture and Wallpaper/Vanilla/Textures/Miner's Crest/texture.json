@@ -1,0 +1,86 @@
+{
+  "ItemName": "Miner's Crest",
+  "Type": "Furniture",
+  "TextureWidth": 32,
+  "TextureHeight": 32,
+  "ManualVariations": [
+	{
+      "Id": 0,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Adventurer's Map",
+	  "Keywords": [ "NPC Adventurer's Map" ]
+    },
+	{
+      "Id": 1,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Bathhouse Bath Sign",
+	  "Keywords": [ "NPC Bathhouse Bath Sign" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Bull Skull",
+	  "Keywords": [ "NPC Bull Skull" ]
+    },
+	{
+      "Id": 3,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Desert Painting",
+	  "Keywords": [ "NPC Desert Painting" ]
+    },
+    {
+      "Id": 4,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Kitchen shelf",
+	  "Keywords": [ "NPC Kitchen shelf" ]
+    },
+	{
+      "Id": 5,
+      "ChanceWeight": 0.1,
+      "Name": "NPC krobus sewer_outlet",
+	  "Keywords": [ "NPC krobus sewer_outlet" ]
+    },
+    {
+      "Id": 6,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Light In The Darkness",
+	  "Keywords": [ "NPC Light In The Darkness" ]
+    },
+	{
+      "Id": 7,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Plane Diagrams",
+	  "Keywords": [ "NPC Plane Diagrams" ]
+    },
+    {
+      "Id": 8,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Plane Shelf",
+	  "Keywords": [ "NPC Plane Shelf" ]
+    },
+	{
+      "Id": 9,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Wall Bookshelf Beakers",
+	  "Keywords": [ "NPC Wall Bookshelf Beakers" ]
+    },
+    {
+      "Id": 10,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Wall Bookshelf Dinosaur",
+	  "Keywords": [ "NPC Wall Bookshelf Dinosaur" ]
+    },
+	{
+      "Id": 11,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Wall Bookshelf Skull",
+	  "Keywords": [ "NPC Wall Bookshelf Skull" ]
+    },
+	{
+      "Id": 12,
+      "ChanceWeight": 0.1,
+      "Name": "NPC Witchy Triangle Window",
+	  "Keywords": [ "NPC Witchy Triangle Window" ]
+    }
+	]
+}

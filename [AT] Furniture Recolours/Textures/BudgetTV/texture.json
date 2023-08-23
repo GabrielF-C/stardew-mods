@@ -1,0 +1,35 @@
+{
+  "ItemName": "Budget TV",
+  "Type": "Furniture",
+  "Keywords": [ "siamece" ],
+  "TextureWidth": 32,
+  "TextureHeight": 48,
+ "ManualVariations": [
+    {
+      "Id": 0
+    },
+    
+    {
+       "Id": 1,
+     "Keywords": [ "black" ]
+    },
+
+    {
+      "Id": 2,
+      "Keywords": [ "white" ]
+    },
+{
+      "Id": 3,
+      "Keywords": [ "birch" ]
+    },
+
+{
+      "Id": 4,
+      "Keywords": [ "walnut" ]
+    },
+{
+      "Id": 5,
+      "Keywords": [ "mahogany" ]
+    }
+  ]
+}

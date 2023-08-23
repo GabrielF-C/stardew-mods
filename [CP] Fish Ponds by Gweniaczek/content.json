@@ -1,0 +1,100 @@
+{
+	"Format": "1.23",
+
+	"ConfigSchema": {
+		"FishPoption":{"AllowValues": "1, 2, 3",
+					"Default": "1"},
+					
+		"SpringPetals":{"AllowValues": "true, false",
+					"Default": "true",
+					"Description": "Adds flower petals in spring when it's windy" },
+					
+		"FallColor":{"AllowValues": "1, 2",
+					"Default": "1",
+					"Description": "To match recolor mods that have that option -> green(1) orange(2)" },
+		"RecolourOverwrite":{"AllowValues": "Vanilla, DNEarthyRecolour, Eemie's, FoliageRedone, Starblue, VibrantPastoral, WittilyNamed",
+					"AllowBlank": true,
+					"Default": "",
+					"Description": "If you want to manually change recolor palette" },
+	},
+	
+	
+	"DynamicTokens": [
+	//checking what recolour is used
+		{
+		"Name": "Recolour",
+		"Value": "Vanilla",
+		},
+		{
+		"Name": "Recolour",
+		"Value": "DNEarthyRecolour",
+			"When": { "HasMod": "DaisyNiko.EarthyRecolour" },
+		},
+		{
+		"Name": "Recolour",
+		"Value": "Eemie's",
+			"When": { "HasMod": "minervamaga.CP.eemieMapRecolour" },
+		},
+		{
+		"Name": "Recolour",
+		"Value": "FoliageRedone",
+			"When": { "HasMod": "stardewfoliageredone" },
+		},{
+		"Name": "Recolour",
+		"Value": "Starblue",
+			"When": { "HasMod": "Lita.StarblueValley" },
+		},
+		{
+		"Name": "Recolour",
+		"Value": "VibrantPastoral",
+			"When": { "HasMod": "grapeponta.VibrantPastoralRecolor" },
+		},
+		{
+		"Name": "Recolour",
+		"Value": "WittilyNamed",
+			"When": { "HasMod": "Acerbicon.Recolor" },
+		},
+
+	//recolor overwrite
+		{
+		"Name": "Recolour",
+		"Value": "{{RecolourOverwrite}}",
+			"When": { "RecolourOverwrite |contains=Vanilla, DNEarthyRecolour, Eemie's, FoliageRedone, FoliageRedoneReshade, Starblue, VibrantPastoral, WittilyNamed": true },
+		},
+	//fall color overwrite
+		{
+		"Name": "Recolour",
+		"Value": "{{Recolour}}/{{FallColor}}",
+			"When": { "Recolour |contains=Eemie's, VibrantPastoral": true,
+					"Season": "fall" },
+		},
+	//Spring Petals overwrite
+		{
+		"Name": "Pollen",
+		"Value": "false",
+		},
+		{
+		"Name": "Pollen",
+		"Value": "true",
+			"When": { "season": "spring",
+					"weather": "wind",
+					"SpringPetals": "true" },
+		},
+	],
+	
+	"Changes": [
+//Fish Pond
+        {
+        "Action": "EditImage",
+        "Target": "Buildings/Fish Pond",
+        "FromFile": "assets/{{Recolour}}/{{season}}_{{FishPoption}}_more.png",
+		},
+		{
+        "Action": "EditImage",
+			"PatchMode": "Overlay",
+        "Target": "Buildings/Fish Pond",
+        "FromFile": "assets/{{Recolour}}/{{FishPoption}}.png",
+			"When": { "Pollen": "true" },
+		},
+     ]
+}

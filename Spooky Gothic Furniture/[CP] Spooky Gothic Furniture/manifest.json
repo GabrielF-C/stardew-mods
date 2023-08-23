@@ -1,0 +1,12 @@
+{
+   "Name": "Spooky Gothic Furniture",
+   "Author": "Serpentwined (adelein13), converted by revenorror",
+   "Version": "2.0.0",
+   "Description": "New replacements for different furniture matching a spooky/goth theme.",
+   "UniqueID": "revenorror.GothFurn",
+   "MinimumApiVersion": "2.5",
+   "UpdateKeys": [ "Nexus:5766" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}

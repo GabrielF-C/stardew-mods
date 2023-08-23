@@ -1,0 +1,17 @@
+{
+  "ItemName": "Oak Dresser",
+  "Type": "Furniture",
+  "Keywords": [ "siamece" ],
+  "TextureWidth": 80,
+  "TextureHeight": 48,
+"ManualVariations": [
+    {
+      "Id": 0,
+      "Keywords": [ "black" ]
+    },
+    {
+      "Id": 1,
+      "Keywords": [ "white" ]
+    }
+  ]
+}
