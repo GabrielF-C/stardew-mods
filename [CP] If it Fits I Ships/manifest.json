@@ -1,9 +1,0 @@
-{
-	"Name": "If it Fits I Ships",
-	"Author": "Wickedy",
-	"Version": "1.0.0",
-	"Description": "A little kitty is there to sell your wares and give you coin in a cardboard box shipping box.",
-	"UniqueID": "Wickedy.CatBin",
-	"UpdateKeys": [ "Nexus:16470" ],
-	"ContentPackFor": {	"UniqueID": "Pathoschild.ContentPatcher", }
-}
