@@ -8,6 +8,10 @@ Then download a [release](https://github.com/GabrielF-C/stardew-mods/releases) a
 
 Make sure to install / update any other requirements specified in the release description.
 
+## Stardew Version
+
+- 1.6.2
+
 ## Other Requirements
 
 - [SMAPI 3.18.4](https://smapi.io/)
